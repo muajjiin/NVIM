@@ -11,7 +11,7 @@ Built with ❤️ using **Lazy.nvim**, **LSP**, and **beautiful UI plugins**.
 ## ✨ Preview
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Neovim Setup Preview" width="700" style="border-radius: 15px;"/>
+  <img src="screenshot/1.png" alt="Neovim Setup Preview" width="700" style="border-radius: 15px;"/>
 </p>
 
 ---
